@@ -26,3 +26,6 @@ Earn rewards without the assets leaving your wallet, or the need for a pairing t
 
 ## Mission 
 To provide liquidity for crypto assets without fuss & fees
+
+## Roadmap
+![Pampas screenshots](/images/roadmap.png)
