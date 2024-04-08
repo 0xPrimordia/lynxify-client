@@ -11,3 +11,5 @@ with your erc20 assets.
 
 ## Direct Wallet Staking & Trading
 Keep your coins secure in your own wallet as you stake or trade.
+
+![Pampas screenshots](/images/pampas-screens.png)
