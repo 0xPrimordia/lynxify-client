@@ -23,3 +23,6 @@ Web App to bridge Hedera and Eth networks with a user-friendly interface and eas
 Earn rewards without the assets leaving your wallet, or the need for a pairing token. Single-Side Staking allows for withdrawals at any time.
 
 ![Pampas screenshots](/images/sing-side-staking.png)
+
+## Mission 
+To provide liquidity for crypto assets without fuss & fees
