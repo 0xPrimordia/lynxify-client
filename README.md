@@ -13,3 +13,5 @@ with your erc20 assets.
 Keep your coins secure in your own wallet as you stake or trade.
 
 ![Pampas screenshots](/images/pampas-screens.png)
+
+![Pampas screenshots](/images/hashport.png)
