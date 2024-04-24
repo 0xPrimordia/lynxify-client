@@ -1,4 +1,4 @@
-# pampas
+# Lynxify
 The first ERC-20/Hedera Wallet
 
 ## Swap between Hedera and L2 networks
