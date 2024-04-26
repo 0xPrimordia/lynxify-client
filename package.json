@@ -1,0 +1,30 @@
+{
+  "name": "pampas",
+  "version": "1.0.0",
+  "description": "hedera and eth walllet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/0xPrimordia/pampas.git"
+  },
+  "author": "Kevin Compton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xPrimordia/pampas/issues"
+  },
+  "homepage": "https://github.com/0xPrimordia/pampas#readme",
+  "dependencies": {
+    "basic-bootstrap": "^1.0.1",
+    "grunt": "^1.6.1",
+    "next": "^14.2.3",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
